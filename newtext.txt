@@ -1,1 +1,10 @@
 am vel murugan
+<html>
+<head>
+<tittle>cloud</tittle>
+</head>
+<body>
+<h1>CLOUD COMPUTING</h1><br> <br>
+<p>in simple terms,cloud computing is a range of services delivered over the internet or the cloud. it means using remote servers to store and access data instead of relying on local hard drives and private datacenters.</p>
+</body>
+</html>
